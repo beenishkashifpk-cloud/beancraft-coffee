@@ -17,4 +17,8 @@ This project strictly follows the required Git workflow using individual feature
 3. `order-page` (Order page and JS logic development and commits)
 4. Final merge of all feature branches into the **`main`** branch.
 
+<img width="1276" height="647" alt="image" src="https://github.com/user-attachments/assets/e7937f20-9df7-4312-886a-d377783e9aea" />
 ![Uploading image.png…]()
+![Uploading image.png…]()
+
+
